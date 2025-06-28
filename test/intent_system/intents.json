@@ -1,0 +1,28 @@
+{
+  "intents": [
+    {
+      "handler": "turn_on",
+      "patterns": [
+        "turn on {device}",
+        "activate {device}",
+        "power up the {device}"
+      ],
+      "required": [
+        "turn",
+        "on"
+      ]
+    },
+    {
+      "handler": "set_temp",
+      "patterns": [
+        "set {device} to {temperature}",
+        "adjust {device} temperature to {temperature}",
+        "make {device} {temperature}"
+      ],
+      "required": [
+        "set",
+        "temperature"
+      ]
+    }
+  ]
+}

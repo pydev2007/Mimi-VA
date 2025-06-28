@@ -1,0 +1,1 @@
+The intent system will include a json of all possible intents and calculate the differences. If nothing is returned, it will only result in an AI response. From then on, it will conclude to respond with ai full on response, or a response telling the user it doesn't understand.

@@ -1,0 +1,4 @@
+- Automatically replace porcupine with openwakeword when not used
+- Seperate audio record and porcupine wake-up into different functions 
+- Get faster speech recognition for primary STT
+- Plan out intent system

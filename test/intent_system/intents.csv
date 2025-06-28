@@ -1,0 +1,6 @@
+text,intent
+What's the weather like?,get_weather
+Tell me the time,get_time
+Book me a flight to Paris,book_flight
+I need to book a hotel,book_hotel
+How hot is it today?,get_weather
