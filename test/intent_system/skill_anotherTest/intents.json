@@ -1,0 +1,5 @@
+{
+  "logout": [["log", "out"], ["sign", "off"], ["log", "off"]],
+  "shutdown": [["shut", "down"], ["power", "off"], ["turn", "off"]]
+}
+
